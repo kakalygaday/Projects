@@ -1,5 +1,5 @@
-# Projects
-<a name="readme-top">Hello Microverse</a>
+# Hello Microverse Project
+<a name="readme-top"></a>
 
 <!--
 HOW TO USE:
