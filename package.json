@@ -10,6 +10,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "projects": "file:"
+    "projects": "file:",
+    "stylelint-config-standard": "^34.0.0"
+  },
+  "devDependencies": {
+    "hint": "^7.1.10",
+    "stylelint": "^15.10.1",
+    "stylelint-csstree-validator": "^3.0.0",
+    "stylelint-scss": "^5.0.1"
   }
 }
